@@ -13,6 +13,7 @@ function install {
 }
 
 # Basics
+install git
 install nodejs
 install npm
 install python3-pip
